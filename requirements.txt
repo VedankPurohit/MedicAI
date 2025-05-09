@@ -1,0 +1,15 @@
+python-dotenv
+openai
+langchain
+langchain-community
+streamlit
+psycopg2-binary
+pgvector
+imgbeddings
+Pillow
+llama-index
+monsterapi
+sentence-transformers
+pypdf
+matplotlib
+duckduckgo-search
